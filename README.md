@@ -1,2 +1,2 @@
-# -2-Week-code-challenge_ARRAYS
-2 week code challenge on arrays : includes nice problems on arrays and Techniques to solving them in java
+# -2-Week-code-challenge
+2 week code challenge  : includes nice problems and Techniques to solving them in java
